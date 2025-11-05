@@ -1,4 +1,5 @@
 # Communicate using Markdown
+# Ex4: heading
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
